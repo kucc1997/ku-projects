@@ -19,7 +19,7 @@ This repository is started to celebrate [Hacktoberfest 2020](https://hacktoberfe
   - [Fourth Year](#third-year)
 
 - [Mini Projects](#mini-projects)
-  - [Database Management Systems](#dbms)
+  - [Database Management Systems](#database-management-systems)
 - [Contribution](#contribution)
 - [License](#license)
 
