@@ -88,6 +88,7 @@ If you want to add your projects or want to contribute in any way. Please feel f
 - Fork this repository
 - make a `your-username-project` branch and add your project details
 - Send a pull request to `main` branch and wait for it to be merged.
+- Please make sure all the links you add are correct.
 
 Contributions, issues and feature requests are welcome. If you want make some changes / improvement in this project, please consider opening an issues first.
 
