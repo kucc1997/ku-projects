@@ -68,6 +68,14 @@ This repository is started to celebrate [Hacktoberfest 2020](https://hacktoberfe
   [![Star this repo](https://img.shields.io/github/stars/saileshbro/nutri.gram.svg)](https://github.com/saileshbro/nutri.gram)
 
 ### Fourth Year
+- #### [KUSIMS](https://github.com/sigdelsanjog/KUSIMS)
+
+    Kathmandu University Student Information Management System is actually a semeter proejct we gradaute student Batch 2018 did as a part of the course Sorftware Engineering. This project is developed in Laravel Framework with various features like Department, Program and Batch Management, Student Grades and Attendance, Hostel Management, Employee and Job type Management, Bus management, Course Assignment & Addition of Notice, Using permissions via roles etc.
+    
+    The app is built with [Laravel=(https://laravel.com/).
+    
+    [![Star this repo](https://img.shields.io/github/stars/sigdelsanjog/KUSIMS.svg)](https://github.com/sigdelsanjog/KUSIMS)
+    
 
 ## Mini Projects
 
