@@ -97,7 +97,7 @@ This repository is started to celebrate [Hacktoberfest 2020](https://hacktoberfe
 
   A simple web app to detect SMS as spam or ham(not spam) using `Python Flask` and `Naïve Bayes classifiers` for IV/I year/semester Artificial Intelligence course (COMP 472).
   
-  The app is built with [Paython Flask](https://flask.palletsprojects.com/en/1.1.x/) and [Bootstrap](https://getbootstrap.com/).
+  The app is built with [Python Flask](https://flask.palletsprojects.com/en/1.1.x/) and [Bootstrap](https://getbootstrap.com/).
   
  **Blog at:** [Towards Data Science](https://towardsdatascience.com/the-ultimate-guide-to-sms-spam-or-ham-detector-aec467aecd85)
  
