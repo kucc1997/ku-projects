@@ -20,7 +20,7 @@ This repository is started to celebrate [Hacktoberfest 2020](https://hacktoberfe
 
 - [Mini Projects](#mini-projects)
   - [Database Management Systems](#database-management-systems)
-  - [Artificial Intelligence](#Artificial Intelligence)
+  - [Artificial Intelligence](#artificial-intelligence)
 - [Contribution](#contribution)
 - [License](#license)
 
