@@ -20,6 +20,7 @@ This repository is started to celebrate [Hacktoberfest 2020](https://hacktoberfe
 
 - [Mini Projects](#mini-projects)
   - [Database Management Systems](#database-management-systems)
+  - [Artificial Intelligence](#artificial-intelligence)
 - [Contribution](#contribution)
 - [License](#license)
 
@@ -88,6 +89,23 @@ This repository is started to celebrate [Hacktoberfest 2020](https://hacktoberfe
   The app is built with [MySQL](https://www.mysql.com) and [Node.js](https://nodejs.org/en/).
 
   [![Star this repo](https://img.shields.io/github/stars/saileshbro/restaurant-dbms.svg)](https://github.com/saileshbro/restaurant-dbms)
+  
+  
+### Artificial Intelligence
+
+- #### [SMS Spam or Ham Detector](https://github.com/maladeep/sms-spam-ham-detector)
+
+  A simple web app to detect SMS as spam or ham(not spam) using `Python Flask` and `Naïve Bayes classifiers` for IV/I year/semester Artificial Intelligence course (COMP 472).
+  
+  The app is built with [Python Flask](https://flask.palletsprojects.com/en/1.1.x/) and [Bootstrap](https://getbootstrap.com/).
+  
+    **Blog at:** [Towards Data Science](https://towardsdatascience.com/the-ultimate-guide-to-sms-spam-or-ham-detector-aec467aecd85)
+ 
+     **Live at:** [Spam or Ham | SMS Detector](https://sms-spam-ham-detector.herokuapp.com)
+
+    [![Star this repo](https://img.shields.io/github/stars/maladeep/sms-spam-ham-detector)](https://github.com/maladeep/sms-spam-ham-detector)
+
+
 
 ## Contribution
 
