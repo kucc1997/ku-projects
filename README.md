@@ -99,9 +99,9 @@ This repository is started to celebrate [Hacktoberfest 2020](https://hacktoberfe
   
   The app is built with [Python Flask](https://flask.palletsprojects.com/en/1.1.x/) and [Bootstrap](https://getbootstrap.com/).
   
- **Blog at:** [Towards Data Science](https://towardsdatascience.com/the-ultimate-guide-to-sms-spam-or-ham-detector-aec467aecd85)
+    **Blog at:** [Towards Data Science](https://towardsdatascience.com/the-ultimate-guide-to-sms-spam-or-ham-detector-aec467aecd85)
  
- **Live at:** [Spam or Ham | SMS Detector](https://sms-spam-ham-detector.herokuapp.com)
+     **Live at:** [Spam or Ham | SMS Detector](https://sms-spam-ham-detector.herokuapp.com)
 
 [![Star this repo](https://img.shields.io/github/stars/maladeep/sms-spam-ham-detector)](https://github.com/maladeep/sms-spam-ham-detector)
 
