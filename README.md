@@ -103,7 +103,7 @@ This repository is started to celebrate [Hacktoberfest 2020](https://hacktoberfe
  
      **Live at:** [Spam or Ham | SMS Detector](https://sms-spam-ham-detector.herokuapp.com)
 
-[![Star this repo](https://img.shields.io/github/stars/maladeep/sms-spam-ham-detector)](https://github.com/maladeep/sms-spam-ham-detector)
+    [![Star this repo](https://img.shields.io/github/stars/maladeep/sms-spam-ham-detector)](https://github.com/maladeep/sms-spam-ham-detector)
 
 
 
