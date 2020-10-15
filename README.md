@@ -68,9 +68,9 @@ This repository is started to celebrate [Hacktoberfest 2020](https://hacktoberfe
 
   [![Star this repo](https://img.shields.io/github/stars/saileshbro/nutri.gram.svg)](https://github.com/saileshbro/nutri.gram)
   
-  - #### [Visit Nepal 2020](https://github.com/TimilsinaBimal/Visit-Nepal-2020)
+- #### [Visit Nepal 2020](https://github.com/TimilsinaBimal/Visit-Nepal-2020)
 
-  Visit Nepal 2020 is a web application targeted for the campaign Visit Nepal 2020 (later postponed to 2022 due to COVID 19). This project helps tourists to find the places based on District, popularity and so on. It also has features like Activities to do in that place, Currency Converter, News about Tourism and places, Social Networking site to connect with other people and so on. Users can rate the places. There are a list of Hotels to stay in, with the prices so that they can easily decide where to stay. 
+     Visit Nepal 2020 is a web application targeted for the campaign Visit Nepal 2020 (later postponed to 2022 due to COVID 19). This project helps tourists to find the places based on District, popularity and so on. It also has features like Activities to do in that place, Currency Converter, News about Tourism and places, Social Networking site to connect with other people and so on. Users can rate the places. There are a list of Hotels to stay in, with the prices so that they can easily decide where to stay. 
         *Note: We have Used dummy data for testing purpose.*
 
   The app is built with [Django](https://www.djangoproject.com/).
