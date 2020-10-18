@@ -49,6 +49,14 @@ This repository is started to celebrate [Hacktoberfest 2020](https://hacktoberfe
   The app is built with [Flutter](https://flutter.dev) and [Node.js](https://nodejs.org/en/). You can try the application by installing apk file from [releases](https://github.com/saileshbro/nirogi/releases/tag/v0.1-beta).
 
   [![Star this repo](https://img.shields.io/github/stars/saileshbro/nirogi.svg)](https://github.com/saileshbro/nirogi) [![Star this repo](https://img.shields.io/github/stars/saileshbro/nirogi-api.svg)](https://github.com/saileshbro/nirogi-api)
+  
+- #### [My Medilog](https://github.com/awanshrestha/medilog)
+
+  My Medilog is a health portal system that helps users with digitalized record of their health reports and information. It allows doctors to update the patient health information and patients can access their past medical records, medications and upcoming appointments with doctors.
+
+  The app is built with [Node.js](https://nodejs.org/en/).
+
+  [![Star this repo](https://img.shields.io/github/stars/awanshrestha/medilog.svg)](https://github.com/awanshrestha/medilog)
 
 ### Third Year
 
