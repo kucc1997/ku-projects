@@ -21,6 +21,7 @@ This repository is started to celebrate [Hacktoberfest 2020](https://hacktoberfe
 - [Mini Projects](#mini-projects)
   - [Database Management Systems](#database-management-systems)
   - [Artificial Intelligence](#artificial-intelligence)
+  - [Computer Graphics](#computer-graphics)
 - [Contribution](#contribution)
 - [License](#license)
 
@@ -122,6 +123,16 @@ This repository is started to celebrate [Hacktoberfest 2020](https://hacktoberfe
      **Live at:** [Spam or Ham SMS Detector](https://sms-spam-ham-detector.herokuapp.com)
 
     [![Star this repo](https://img.shields.io/github/stars/maladeep/sms-spam-ham-detector)](https://github.com/maladeep/sms-spam-ham-detector)
+    
+### Computer Graphics
+
+- #### [Double Pendulum Simulation](https://github.com/saileshbro/double-pendulum-simulation)
+
+  This is a double pendullum simulation application with [p5.js](https://p5js.org/), built as a Mini Project for Computer Graphics (COMP 342).
+
+  You can view the live demo [here](https://saileshbro.github.io/double-pendulum-simulation/).
+
+  [![Star this repo](https://img.shields.io/github/stars/saileshbro/double-pendulum-simulation)](https://github.com/saileshbro/double-pendulum-simulation)
 
 
 
