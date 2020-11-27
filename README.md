@@ -22,6 +22,10 @@ This repository is started to celebrate [Hacktoberfest 2020](https://hacktoberfe
   - [Database Management Systems](#database-management-systems)
   - [Artificial Intelligence](#artificial-intelligence)
   - [Computer Graphics](#computer-graphics)
+
+- [Open Source Projects](#open-source-projects)
+  - [Angular Dart Extension](#angular-dart-extension)
+  
 - [Contribution](#contribution)
 - [License](#license)
 
@@ -134,7 +138,16 @@ This repository is started to celebrate [Hacktoberfest 2020](https://hacktoberfe
 
   [![Star this repo](https://img.shields.io/github/stars/saileshbro/double-pendulum-simulation)](https://github.com/saileshbro/double-pendulum-simulation)
 
+## Open Source Projects
 
+### [Angular Dart Extension](https://github.com/aadarshadhakalg/ADSnippets)
+
+  This is the first VS Code extension for the Google's frontend framework [Angular Dart](https://github.com/dart-lang/angular). This extension generates boilerplate codes, template codes, and components of Angular Dart. 
+
+  [![Version](https://vsmarketplacebadge.apphb.com/version/aadarshadhakalg.adsnippets.svg)](https://marketplace.visualstudio.com/items?itemName=aadarshadhakalg.adsnippets)
+  [![Installs](https://vsmarketplacebadge.apphb.com/installs/aadarshadhakalg.adsnippets.svg)](https://marketplace.visualstudio.com/items?itemName=aadarshadhakalg.adsnippets)
+  [![Ratings](https://vsmarketplacebadge.apphb.com/rating/aadarshadhakalg.adsnippets.svg)](https://marketplace.visualstudio.com/items?itemName=aadarshadhakalg.adsnippets)
+  [![Star this repo](https://img.shields.io/github/stars/saileshbro/scientific-calculator-qt.svg)](https://github.com/aadarshadhakalg/ADSnippets)
 
 ## Contribution
 
