@@ -139,9 +139,7 @@ This repository is started to celebrate [Hacktoberfest 2020](https://hacktoberfe
 
 ## Open Source Projects
 
-### VS Code Extensions
-
-- #### [Angular Dart](https://github.com/aadarshadhakalg/ADSnippets)
+### [Angular Dart Extension](https://github.com/aadarshadhakalg/ADSnippets)
 
   This is the first VS Code extension for the Google's frontend framework [Angular Dart](https://github.com/dart-lang/angular). This extension generates boilerplate codes, template codes, and components of Angular Dart. 
 
