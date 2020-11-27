@@ -24,7 +24,8 @@ This repository is started to celebrate [Hacktoberfest 2020](https://hacktoberfe
   - [Computer Graphics](#computer-graphics)
 
 - [Open Source Projects](#open-source-projects)
-  - [VS Code Extensions](#extensions)
+  - [Angular Dart Extension](#angular-dart-extension)
+  
 - [Contribution](#contribution)
 - [License](#license)
 
