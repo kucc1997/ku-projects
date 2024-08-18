@@ -39,6 +39,13 @@ This repository is started to celebrate [Hacktoberfest 2020](https://hacktoberfe
 
   [![Star this repo](https://img.shields.io/github/stars/saileshbro/scientific-calculator-qt.svg)](https://github.com/saileshbro/scientific-calculator-qt)
 
+- #### [652ash](https://github.com/razzat008/652ahs)
+
+  A project written in C++ and made using Dear ImGui for UI and sqlite3 for database, that calculates hashes for both files and text using 
+  SHA256 and MD5 hashing algorithms.
+
+  [![Star this repo](https://img.shields.io/github/stars/razzat008/652ahs.svg)](https://github.com/razzat008/652ahs)
+
 ### Second Year
 
 - #### [Kam Nepal](https://github.com/saileshbro/kamnepal)
