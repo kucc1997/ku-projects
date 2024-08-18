@@ -46,6 +46,12 @@ This repository is started to celebrate [Hacktoberfest 2020](https://hacktoberfe
 
   [![Star this repo](https://img.shields.io/github/stars/razzat008/652ahs.svg)](https://github.com/razzat008/652ahs)
 
+- #### [Classroom Management System (CMS)](https://github.com/suveshgurung/CMS)
+  
+  A project thoughtfully made using C++ and Qt that helps streamline the process of proxy class allocation in Block 6 of Kathmandu University.
+
+  [![Star this repo](https://img.shields.io/github/stars/suveshgurung/CMS.svg)](https://github.com/suveshgurung/CMS)
+
 ### Second Year
 
 - #### [Kam Nepal](https://github.com/saileshbro/kamnepal)
