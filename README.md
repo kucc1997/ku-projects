@@ -51,6 +51,13 @@ This repository is started to celebrate [Hacktoberfest 2020](https://hacktoberfe
   A project thoughtfully made using C++ and Qt that helps streamline the process of proxy class allocation in Block 6 of Kathmandu University.
 
   [![Star this repo](https://img.shields.io/github/stars/suveshgurung/CMS.svg)](https://github.com/suveshgurung/CMS)
+  
+  #### [BloodBound](https://github.com/sarbeshkc/blood)
+  
+  A project made using C++ and Qt that helps to solve the blood donation process and ensure a hassle free experience to the end user.
+
+  [![Star this repo](https://img.shields.io/github/stars/sarbeshkc/blood.svg)](https://github.com/sarbeshkc/blood)
+
 
 ### Second Year
 
