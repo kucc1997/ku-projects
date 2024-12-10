@@ -54,9 +54,15 @@ This repository is started to celebrate [Hacktoberfest 2020](https://hacktoberfe
   
 - #### [BloodBound](https://github.com/sarbeshkc/blood)
   
-  A project made using C++ and Qt that helps to solve the blood donation process and ensure a hassle free experience to the end user.
+  A project made using C++ and Qt that helps to solve the blood donation process and ensure a hassle-free experience to the end user.
 
   [![Star this repo](https://img.shields.io/github/stars/sarbeshkc/blood.svg)](https://github.com/sarbeshkc/blood)
+
+- #### [Project-ISGC](https://github.com/SafalNarsingh/Project-ISGC)
+
+  Scientific and Graphing Calculator made and integrated using C++ and SFML. Project - ISGC (Integrating Scientific and Graphing Calculator)
+
+  [![Star this repo](https://img.shields.io/github/stars/SafalNarsingh/Project-ISGC) ](https://github.com/SafalNarsingh/Project-ISGC)
 
 
 ### Second Year
