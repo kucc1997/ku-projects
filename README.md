@@ -67,6 +67,12 @@ This repository is started to celebrate [Hacktoberfest 2020](https://hacktoberfe
 
 ### Second Year
 
+- #### [Sudoku Solver](https://github.com/SafalNarsingh/Sudoku-Solver)
+  
+  Sudoku Solver is a Django-based web application that provides a comprehensive Sudoku gaming experience, featuring gameplay, puzzle generation, solving capabilities, and user management. This project aims to serve as a learning tool to help users understand and analyze different Sudoku-solving techniques.
+
+  [![Star this repo](https://img.shields.io/github/stars/SafalNarsingh/Sudoku-Solver)](https://github.com/SafalNarsingh/Sudoku-Solver)
+
 - #### [Kam Nepal](https://github.com/saileshbro/kamnepal)
 
   Kam Nepal is a job portal website which was created using `PHP`.
