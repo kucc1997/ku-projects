@@ -19,13 +19,13 @@ This repository is started to celebrate [Hacktoberfest 2020](https://hacktoberfe
   - [Fourth Year](#third-year)
 
 - [Mini Projects](#mini-projects)
+
   - [Database Management Systems](#database-management-systems)
   - [Artificial Intelligence](#artificial-intelligence)
   - [Computer Graphics](#computer-graphics)
 
 - [Open Source Projects](#open-source-projects)
   - [Angular Dart Extension](#angular-dart-extension)
-  
 - [Contribution](#contribution)
 - [License](#license)
 
@@ -41,19 +41,19 @@ This repository is started to celebrate [Hacktoberfest 2020](https://hacktoberfe
 
 - #### [652ash](https://github.com/razzat008/652ahs)
 
-  A project written in C++ and made using Dear ImGui for UI and sqlite3 for database, that calculates hashes for both files and text using 
+  A project written in C++ and made using Dear ImGui for UI and sqlite3 for database, that calculates hashes for both files and text using
   SHA256 and MD5 hashing algorithms.
 
   [![Star this repo](https://img.shields.io/github/stars/razzat008/652ahs.svg)](https://github.com/razzat008/652ahs)
 
 - #### [Classroom Management System (CMS)](https://github.com/suveshgurung/CMS)
-  
+
   A project thoughtfully made using C++ and Qt that helps streamline the process of proxy class allocation in Block 6 of Kathmandu University.
 
   [![Star this repo](https://img.shields.io/github/stars/suveshgurung/CMS.svg)](https://github.com/suveshgurung/CMS)
-  
+
 - #### [BloodBound](https://github.com/sarbeshkc/blood)
-  
+
   A project made using C++ and Qt that helps to solve the blood donation process and ensure a hassle-free experience to the end user.
 
   [![Star this repo](https://img.shields.io/github/stars/sarbeshkc/blood.svg)](https://github.com/sarbeshkc/blood)
@@ -64,11 +64,18 @@ This repository is started to celebrate [Hacktoberfest 2020](https://hacktoberfe
 
   [![Star this repo](https://img.shields.io/github/stars/SafalNarsingh/Project-ISGC) ](https://github.com/SafalNarsingh/Project-ISGC)
 
-
 ### Second Year
 
+- #### [Sajha Sanduk](https://github.com/githeimer/sajhasanduk)
+
+  [Live Preview](https://sajha-sanduk.vercel.app/)
+
+  A modern online marketplace for Kathmandu University students to easily buy, sell, or rent items with location tracking and secure payments. Built with Next.js, TypeScript, Supabase, Esewa API, and Cloudinary for a seamless user experience.
+
+  [![Star this repo](https://img.shields.io/github/stars/githeimer/SajhaSanduk.svg)](https://github.com/githeimer/SajhaSanduk)
+
 - #### [Sudoku Solver](https://github.com/SafalNarsingh/Sudoku-Solver)
-  
+
   Sudoku Solver is a Django-based web application that provides a comprehensive Sudoku gaming experience, featuring gameplay, puzzle generation, solving capabilities, and user management. This project aims to serve as a learning tool to help users understand and analyze different Sudoku-solving techniques.
 
   [![Star this repo](https://img.shields.io/github/stars/SafalNarsingh/Sudoku-Solver)](https://github.com/SafalNarsingh/Sudoku-Solver)
@@ -86,7 +93,7 @@ This repository is started to celebrate [Hacktoberfest 2020](https://hacktoberfe
   The app is built with [Flutter](https://flutter.dev) and [Node.js](https://nodejs.org/en/). You can try the application by installing apk file from [releases](https://github.com/saileshbro/nirogi/releases/tag/v0.1-beta).
 
   [![Star this repo](https://img.shields.io/github/stars/saileshbro/nirogi.svg)](https://github.com/saileshbro/nirogi) [![Star this repo](https://img.shields.io/github/stars/saileshbro/nirogi-api.svg)](https://github.com/saileshbro/nirogi-api)
-  
+
 - #### [My Medilog](https://github.com/awanshrestha/medilog)
 
   My Medilog is a health portal system that helps users with digitalized record of their health reports and information. It allows doctors to update the patient health information and patients can access their past medical records, medications and upcoming appointments with doctors.
@@ -112,26 +119,25 @@ This repository is started to celebrate [Hacktoberfest 2020](https://hacktoberfe
   The app is built with [Flutter](https://flutter.dev) and [Node.js](https://nodejs.org/en/).
 
   [![Star this repo](https://img.shields.io/github/stars/saileshbro/nutri.gram.svg)](https://github.com/saileshbro/nutri.gram)
-  
+
 - #### [Visit Nepal 2020](https://github.com/TimilsinaBimal/Visit-Nepal-2020)
 
-     Visit Nepal 2020 is a web application targeted for the campaign Visit Nepal 2020 (later postponed to 2022 due to COVID 19). This project helps tourists to find the places based on District, popularity and so on. It also has features like Activities to do in that place, Currency Converter, News about Tourism and places, Social Networking site to connect with other people and so on. Users can rate the places. There are a list of Hotels to stay in, with the prices so that they can easily decide where to stay. 
-        *Note: We have Used dummy data for testing purpose.*
+  Visit Nepal 2020 is a web application targeted for the campaign Visit Nepal 2020 (later postponed to 2022 due to COVID 19). This project helps tourists to find the places based on District, popularity and so on. It also has features like Activities to do in that place, Currency Converter, News about Tourism and places, Social Networking site to connect with other people and so on. Users can rate the places. There are a list of Hotels to stay in, with the prices so that they can easily decide where to stay.
+  _Note: We have Used dummy data for testing purpose._
 
   The app is built with [Django](https://www.djangoproject.com/).
 
   [![Star this repo](https://img.shields.io/github/stars/TimilsinaBimal/Visit-Nepal-2020.svg)](https://github.com/TimilsinaBimal/Visit-Nepal-2020)
-  
 
 ### Fourth Year
+
 - #### [KUSIMS](https://github.com/sigdelsanjog/KUSIMS)
 
-    Kathmandu University Student Information Management System is actually a semeter proejct we gradaute student Batch 2018 did as a part of the course Sorftware Engineering. This project is developed in Laravel Framework with various features like Department, Program and Batch Management, Student Grades and Attendance, Hostel Management, Employee and Job type Management, Bus management, Course Assignment & Addition of Notice, Using permissions via roles etc.
-    
-    The app is built with [Laravel](https://laravel.com/).
-    
-    [![Star this repo](https://img.shields.io/github/stars/sigdelsanjog/KUSIMS.svg)](https://github.com/sigdelsanjog/KUSIMS)
-    
+  Kathmandu University Student Information Management System is actually a semeter proejct we gradaute student Batch 2018 did as a part of the course Sorftware Engineering. This project is developed in Laravel Framework with various features like Department, Program and Batch Management, Student Grades and Attendance, Hostel Management, Employee and Job type Management, Bus management, Course Assignment & Addition of Notice, Using permissions via roles etc.
+
+  The app is built with [Laravel](https://laravel.com/).
+
+  [![Star this repo](https://img.shields.io/github/stars/sigdelsanjog/KUSIMS.svg)](https://github.com/sigdelsanjog/KUSIMS)
 
 ## Mini Projects
 
@@ -144,22 +150,21 @@ This repository is started to celebrate [Hacktoberfest 2020](https://hacktoberfe
   The app is built with [MySQL](https://www.mysql.com) and [Node.js](https://nodejs.org/en/).
 
   [![Star this repo](https://img.shields.io/github/stars/saileshbro/restaurant-dbms.svg)](https://github.com/saileshbro/restaurant-dbms)
-  
-  
+
 ### Artificial Intelligence
 
 - #### [SMS Spam or Ham Detector](https://github.com/maladeep/sms-spam-ham-detector)
 
   A simple web app to detect SMS as spam or ham(not spam) using `Python Flask` and `Naïve Bayes classifiers` for IV/I year/semester Artificial Intelligence course (COMP 472).
-  
-  The app is built with [Python Flask](https://flask.palletsprojects.com/en/1.1.x/) and [Bootstrap](https://getbootstrap.com/).
-  
-    **Blog at:** [Towards Data Science](https://towardsdatascience.com/the-ultimate-guide-to-sms-spam-or-ham-detector-aec467aecd85)
- 
-     **Live at:** [Spam or Ham SMS Detector](https://sms-spam-ham-detector.herokuapp.com)
 
-    [![Star this repo](https://img.shields.io/github/stars/maladeep/sms-spam-ham-detector)](https://github.com/maladeep/sms-spam-ham-detector)
-    
+  The app is built with [Python Flask](https://flask.palletsprojects.com/en/1.1.x/) and [Bootstrap](https://getbootstrap.com/).
+
+  **Blog at:** [Towards Data Science](https://towardsdatascience.com/the-ultimate-guide-to-sms-spam-or-ham-detector-aec467aecd85)
+
+  **Live at:** [Spam or Ham SMS Detector](https://sms-spam-ham-detector.herokuapp.com)
+
+  [![Star this repo](https://img.shields.io/github/stars/maladeep/sms-spam-ham-detector)](https://github.com/maladeep/sms-spam-ham-detector)
+
 ### Computer Graphics
 
 - #### [Double Pendulum Simulation](https://github.com/saileshbro/double-pendulum-simulation)
@@ -174,12 +179,12 @@ This repository is started to celebrate [Hacktoberfest 2020](https://hacktoberfe
 
 ### [Angular Dart Extension](https://github.com/aadarshadhakalg/ADSnippets)
 
-  This is the first VS Code extension for the Google's frontend framework [Angular Dart](https://github.com/dart-lang/angular). This extension generates boilerplate codes, template codes, and components of Angular Dart. 
+This is the first VS Code extension for the Google's frontend framework [Angular Dart](https://github.com/dart-lang/angular). This extension generates boilerplate codes, template codes, and components of Angular Dart.
 
-  [![Version](https://vsmarketplacebadge.apphb.com/version/aadarshadhakalg.adsnippets.svg)](https://marketplace.visualstudio.com/items?itemName=aadarshadhakalg.adsnippets)
-  [![Installs](https://vsmarketplacebadge.apphb.com/installs/aadarshadhakalg.adsnippets.svg)](https://marketplace.visualstudio.com/items?itemName=aadarshadhakalg.adsnippets)
-  [![Ratings](https://vsmarketplacebadge.apphb.com/rating/aadarshadhakalg.adsnippets.svg)](https://marketplace.visualstudio.com/items?itemName=aadarshadhakalg.adsnippets)
-  [![Star this repo](https://img.shields.io/github/stars/saileshbro/scientific-calculator-qt.svg)](https://github.com/aadarshadhakalg/ADSnippets)
+[![Version](https://vsmarketplacebadge.apphb.com/version/aadarshadhakalg.adsnippets.svg)](https://marketplace.visualstudio.com/items?itemName=aadarshadhakalg.adsnippets)
+[![Installs](https://vsmarketplacebadge.apphb.com/installs/aadarshadhakalg.adsnippets.svg)](https://marketplace.visualstudio.com/items?itemName=aadarshadhakalg.adsnippets)
+[![Ratings](https://vsmarketplacebadge.apphb.com/rating/aadarshadhakalg.adsnippets.svg)](https://marketplace.visualstudio.com/items?itemName=aadarshadhakalg.adsnippets)
+[![Star this repo](https://img.shields.io/github/stars/saileshbro/scientific-calculator-qt.svg)](https://github.com/aadarshadhakalg/ADSnippets)
 
 ## Contribution
 
